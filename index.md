@@ -1,37 +1,20 @@
-## Welcome to GitHub Pages
+# Cleanchain
 
-You can use the [editor on GitHub](https://github.com/clean-chain/clean-chain.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+In this digital age, blockchain technology has the power to gather, filter and trace digital informations in order to create the right trust through a secure and decentralised net.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+A blockchain is a distributed database: a digital register that publicly stores encoded informations on the internet. It is a very powerful and versatile tool, able to be adapted for different solutions in different environments and our goal is to improve transparency and efficiency of the food chain industry through its use.
 
-### Markdown
+## Who we are
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+We are a 5-member team of university students and working professionals, currently working for the [Start For Future project](https://www.eiturbanmobility.eu/start-for-future/), organized by the European Institute of tecnology.
 
-```markdown
-Syntax highlighted code block
+## Work in progress
 
-# Header 1
-## Header 2
-### Header 3
+This all thing is still in alpha stage but we are putting together all the pieces for a well made final cut. Stay tuned for further updates!
 
-- Bulleted
-- List
+- [Preliminary presentation](https://www.cleanchain.org/docs/cleanchain_teamballo.pdf)
+- [Lean model canvas](https://www.cleanchain.org/docs/lean_canvas.pdf)
 
-1. Numbered
-2. List
+## Contact us
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/clean-chain/clean-chain.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+<mailto:cleancchain@protonmail.com>

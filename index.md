@@ -12,8 +12,8 @@ We are a 5-member team of university students and working professionals, current
 
 This all thing is still in alpha stage but we are putting together all the pieces for a well made final cut. Stay tuned for further updates!
 
-- [Preliminary presentation](https://www.cleanchain.org/docs/cleanchain_teamballo.pdf)
-- [Lean model canvas](https://www.cleanchain.org/docs/lean_canvas.pdf)
+- [Preliminary presentation](cleanchain_teamballo.pdf)
+- [Lean model canvas](lean_canvas.pdf)
 
 ## Contact us
 
